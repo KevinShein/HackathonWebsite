@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+  background-color: beige; 
+}
+.title {
+	font-family: "Yuji Mai", Sans-Serif;
+	color: brown;
+	text-align: center;
+}
+.dog-image {
+  display: block;
+  margin - left: auto;
+  margin - right: auto;
+  width: 50%;
+}
+.paragraph {
+  font-family: Sans-Serif;
+  font-size: 20px;
+  text-align: center;
+  color: orange;
+  
+}
